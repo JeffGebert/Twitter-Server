@@ -1,0 +1,16 @@
+{
+  "name": "twitterserver",
+  "version": "1.0.0",
+  "description": "server for twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeff",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "install": "^0.13.0",
+    "mongobox": "^0.1.0"
+  }
+}
