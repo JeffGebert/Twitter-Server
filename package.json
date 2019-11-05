@@ -17,7 +17,7 @@
     "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
     "mongobox": "^0.1.0",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1"
   }
 }
